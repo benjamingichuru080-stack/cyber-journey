@@ -10,10 +10,10 @@ My public learning log as I break into cybersecurity.
 ## Repository layout
 | Folder | What goes in it |
 |---|---|
-| `notes/` | Study notes (networking, Linux, Windows, Security+) |
-| `labs/` | Home lab builds and hands-on exercises |
-| `write-ups/` | Investigations and lab write-ups |
-| `automation/` | Scripts and workflows I build |
+| `01-notes/` | Study notes (networking, Linux, Windows, Security+) |
+| `02-labs/` | Home lab builds and hands-on exercises |
+| `03-write-ups/` | Investigations and lab write-ups |
+| `04-automation/` | Scripts and workflows I build |
 
 ## My safety rules
 I never commit:
